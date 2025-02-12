@@ -1,16 +1,750 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<EasytouristTransfer xmlns="http://schnittstelle.easytourist.de/export" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schnittstelle.easytourist.de/export easytouristtransfer.xsd" EMailBeiFehler="info@wolf-reisen.com" KundenId="1234" Modus="Vollabgleich" Validierung="false"><Reise ObjektID="3111" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Weihnachtszauber am Bodensee"><Ziel Land="DEU" Stadt="Weihnachtszauber am Bodensee"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Märchen-Weihnachtszauber am Bodensee 
+<EasytouristTransfer xmlns="http://schnittstelle.easytourist.de/export" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schnittstelle.easytourist.de/export easytouristtransfer.xsd" EMailBeiFehler="info@wolf-reisen.com" KundenId="1234" Modus="Vollabgleich" Validierung="false"><Reise ObjektID="3127" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
 
-„Der Weihnachtsmarkt am See" ist nicht nur für Konstanzer ein be­liebtes Ziel. Von der Marktstätte bis an den Hafen und weiter auf das Weihnachtsmarkt-Schiff lädt ein buntes und stimmungsvolles Treiben zum Besuch ein. 
+Kur & Erholung genießen
 
-Abreise Öschelbronn ca. 08:00 h   Rückkehr  ca. 20:00 h
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
 
-Termin:
-Sa. 07.12.2024
-So. 22.12.2024
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3127" Buchungscode="M250112-1" Start="2025-12-01" Ende="2025-12-08"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="597.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="702.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="977.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1110.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1302.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3128" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3128" Buchungscode="M251702-1" Start="2025-02-17" Ende="2025-02-24"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1027.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1160.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1303.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3129" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3129" Buchungscode="M252411-1" Start="2025-11-24" Ende="2025-12-01"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1027.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1160.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1304.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3130" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3130" Buchungscode="M251011-1" Start="2025-11-10" Ende="2025-11-17"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1305.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3131" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3131" Buchungscode="M251003-1" Start="2025-03-10" Ende="2025-03-17"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="727.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="832.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1306.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3132" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3132" Buchungscode="M251404-1" Start="2025-04-14" Ende="2025-04-21"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1307.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3133" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3133" Buchungscode="M250311-1" Start="2025-11-03" Ende="2025-11-10"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="727.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="832.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1308.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3134" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3134" Buchungscode="M253006-1" Start="2025-06-30" Ende="2025-07-07"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1309.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3135" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3135" Buchungscode="M252107-1" Start="2025-07-21" Ende="2025-07-28"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1310.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3136" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3136" Buchungscode="M252804-1" Start="2025-04-28" Ende="2025-05-05"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1311.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3137" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3137" Buchungscode="M251205-1" Start="2025-05-12" Ende="2025-05-19"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1312.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3138" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3138" Buchungscode="M250206-1" Start="2025-06-02" Ende="2025-06-09"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1313.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3139" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3139" Buchungscode="M252306-1" Start="2025-06-23" Ende="2025-06-30"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1314.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3140" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3140" Buchungscode="M250408-1" Start="2025-08-04" Ende="2025-08-11"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1315.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3141" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3141" Buchungscode="M252508-1" Start="2025-08-25" Ende="2025-09-01"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1316.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3142" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3142" Buchungscode="M250809-1" Start="2025-09-08" Ende="2025-09-15"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1317.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3143" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3143" Buchungscode="M252909-1" Start="2025-09-29" Ende="2025-10-06"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1318.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3144" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+
+Kur & Erholung genießen
+
+Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
+gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+
+1. Tag: Anreise 
+Sie reisen von zu Hause in Ihr gebuchtes Hotel.
+
+2.-7. Tag: 
+Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+
+8. Tag: Rückreise
+Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+
+Ihre Hotels
+
+Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+
+Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+
+Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+
+Unsere Leistungen
+• Haustürabholung inkl. Kofferservice
+• An- und Abreise im modernen Fernreisebus
+• 7 x Übernachtung mit Halbpension
+• Örtliche Reiseleitung 
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3144" Buchungscode="M251310-1" Start="2025-10-13" Ende="2025-10-20"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1319.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3154" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Karfreitag in der Pfalz"><Ziel Land="DEU" Stadt="Karfreitag in der Pfalz"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Karfreitag in der Pfalz
+
+In der sonnenverwöhnten Pfalz werden Sie zum Mittagessen erwartet. Es werden verschiedene Karfreitagsgerichte angeboten. Am Nachmittag geht es zum Schuhmuseum nach Hauenstein. Erleben Sie beim Besuch die spannende Vielfalt von Schuhen.
+
+Abreise Öschelbronn  ca. 09:30 h         Rückkehr  ca. 18:30 h  
 
 Leistungen:
-Busreise]]></Beschreibung><Termine><Termin ObjektID="T3111" Buchungscode="T242212-1" Start="2024-12-22" Ende="2024-12-22"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="59.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis" Preis="59.00"/></Optionen><Bilder><Bild Dateiname="bfa4747_1287.jpg" Sortierung="1"/></Bilder><Route Name="Route1"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3126" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+Busreise 
+Eintritt Schuhmuseum]]></Beschreibung><Termine><Termin ObjektID="T3154" Buchungscode="T251804-1" Start="2025-04-18" Ende="2025-04-18"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="59.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistung" Preis="59.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1322.jpg" Sortierung="1"/></Bilder><Route Name="Route1"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="09:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3155" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Brombachsee"><Ziel Land="DEU" Stadt="Brombachsee"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Brombachsee incl. Schifffahrt
+
+ An Bord des einzigartigen Trimarans „MS Brombachsee" lernen Sie den Brombachsee bei einer Rundfahrt kennen. Am Nachmittag geht es weiter nach Dinkelsbühl mit der Möglichkeit zum Bummeln oder Kaffeetrinken. 
+
+Abreise Öschelbronn 08:00 h      Rückkehr 19:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3155" Buchungscode="T252604-1" Start="2025-04-26" Ende="2025-04-26"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1323.jpg" Sortierung="1"/></Bilder><Route Name="Route2"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3156" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Brombachsee"><Ziel Land="DEU" Stadt="Brombachsee"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Brombachsee incl. Schifffahrt
+
+ An Bord des einzigartigen Trimarans „MS Brombachsee" lernen Sie den Brombachsee bei einer Rundfahrt kennen. Am Nachmittag geht es weiter nach Dinkelsbühl mit der Möglichkeit zum Bummeln oder Kaffeetrinken. 
+
+Abreise Öschelbronn 08:00 h      Rückkehr 19:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3156" Buchungscode="T251705-1" Start="2025-05-17" Ende="2025-05-17"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1324.jpg" Sortierung="1"/></Bilder><Route Name="Route3"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3157" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Brombachsee"><Ziel Land="DEU" Stadt="Brombachsee"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Brombachsee incl. Schifffahrt
+
+ An Bord des einzigartigen Trimarans „MS Brombachsee" lernen Sie den Brombachsee bei einer Rundfahrt kennen. Am Nachmittag geht es weiter nach Dinkelsbühl mit der Möglichkeit zum Bummeln oder Kaffeetrinken. 
+
+Abreise Öschelbronn 08:00 h      Rückkehr 19:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3157" Buchungscode="T252806-1" Start="2025-06-28" Ende="2025-06-28"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1325.jpg" Sortierung="1"/></Bilder><Route Name="Route4"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3158" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mode Betz und Café Lagerhaus"><Ziel Land="DEU" Stadt="Mode Betz und Café Lagerhaus"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Reise zum Mode Betz und Café Lagerhaus
+
+Über Reutlingen und Pfullingen reisen Sie nach Ödenwaldstetten zum Betz. Dort werden Sie mit einem Sektempfang und Frühstück erwartet. Danach sehen Sie eine Modenschau und haben Gelegenheit zum Einkauf. Nach dem Mittagessen geht es weiter zum Lagerhaus an der Lauter. Ein idyllisches Café mit eigener Chocolaterie und Seifen-Manufaktur. Anschließend geht es wieder zurück in die Heimat.
+
+Abreise Öschelbronn ca. 8:00 h   Rückkehr ca. 18:00 h 
+
+Leistungen: 
+Sektempfang
+Frühstück 
+Mittagessen 
+Modenschau]]></Beschreibung><Termine><Termin ObjektID="T3158" Buchungscode="T252105-1" Start="2025-05-21" Ende="2025-05-21"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistungen" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1326.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3159" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Reise zur Insel Mainau"><Ziel Land="DEU" Stadt="Reise zur Insel Mainau"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Insel Mainau
+
+Der Besuch auf der Insel Mainau ist zu jeder Jahreszeit ein unvergessliches Erlebnis. Das  Blütenjahr steckt voller Höhepunkte: Farbenprächtige Tulpen- und Narzissenfelder heißen den Frühling willkommen, tausende Rosenblüten verzaubern den Sommer mit ihrem zarten Duft. Nicht zu vergessen, die Dahlienblüte, deren glühendes Farbenspiel im Herbst verzaubert. 
+
+Abfahrt: ca. 07:30 Uhr / Rückkehr ca.20:00 Uhr
+
+
+Leistungen: 
+Busreise 
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3159" Buchungscode="T251105-1" Start="2025-05-11" Ende="2025-05-11"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Eintritt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1327.jpg" Sortierung="1"/></Bilder><Route Name="Route5"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="07:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3160" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Reise zur Insel Mainau"><Ziel Land="DEU" Stadt="Reise zur Insel Mainau"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Insel Mainau
+
+Der Besuch auf der Insel Mainau ist zu jeder Jahreszeit ein unvergessliches Erlebnis. Das  Blütenjahr steckt voller Höhepunkte: Farbenprächtige Tulpen- und Narzissenfelder heißen den Frühling willkommen, tausende Rosenblüten verzaubern den Sommer mit ihrem zarten Duft. Nicht zu vergessen, die Dahlienblüte, deren glühendes Farbenspiel im Herbst verzaubert. 
+
+Abfahrt: ca. 07:30 Uhr / Rückkehr ca.20:00 Uhr
+
+
+Leistungen: 
+Busreise 
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3160" Buchungscode="T251506-1" Start="2025-06-15" Ende="2025-06-15"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Eintritt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1328.jpg" Sortierung="1"/></Bilder><Route Name="Route6"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="07:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3161" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Reise zur Insel Mainau"><Ziel Land="DEU" Stadt="Reise zur Insel Mainau"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Insel Mainau
+
+Der Besuch auf der Insel Mainau ist zu jeder Jahreszeit ein unvergessliches Erlebnis. Das  Blütenjahr steckt voller Höhepunkte: Farbenprächtige Tulpen- und Narzissenfelder heißen den Frühling willkommen, tausende Rosenblüten verzaubern den Sommer mit ihrem zarten Duft. Nicht zu vergessen, die Dahlienblüte, deren glühendes Farbenspiel im Herbst verzaubert. 
+
+Abfahrt: ca. 07:30 Uhr / Rückkehr ca.20:00 Uhr
+
+
+Leistungen: 
+Busreise 
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3161" Buchungscode="T250607-1" Start="2025-07-06" Ende="2025-07-06"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Eintritt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1329.jpg" Sortierung="1"/></Bilder><Route Name="Route7"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="07:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3162" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Reise zur Insel Mainau"><Ziel Land="DEU" Stadt="Reise zur Insel Mainau"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Insel Mainau
+
+Der Besuch auf der Insel Mainau ist zu jeder Jahreszeit ein unvergessliches Erlebnis. Das  Blütenjahr steckt voller Höhepunkte: Farbenprächtige Tulpen- und Narzissenfelder heißen den Frühling willkommen, tausende Rosenblüten verzaubern den Sommer mit ihrem zarten Duft. Nicht zu vergessen, die Dahlienblüte, deren glühendes Farbenspiel im Herbst verzaubert. 
+
+Abfahrt: ca. 07:30 Uhr / Rückkehr ca.20:00 Uhr
+
+
+Leistungen: 
+Busreise 
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3162" Buchungscode="T251409-1" Start="2025-09-14" Ende="2025-09-14"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Eintritt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1330.jpg" Sortierung="1"/></Bilder><Route Name="Route8"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="07:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3163" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Gartenschau Freudenstadt und Baiersbronn 2025"><Ziel Land="DEU" Stadt="Gartenschau Freudenstadt und Baiersbronn 2025"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Gartenschau Freudenstadt und Baiersbronn 2025
+
+Freudenstadt mit seinem weitläufigen Marktplatz auf der einen Seite. Das kulinarisch herausragende Baiersbronn auf der anderen. Dazwischen ein idyllisches Tal, das für einen langen Sommer aus dem Dornröschenschlaf erwacht und ganz neu erblüht.
+eran­staltungen aus den Bereichen Garten, Natur, Kunst und Kultur auf Sie! Genießen Sie das abwechs­lungsreiche Programm und erleben Sie einen bunten Tag inmitten von innovativer Landschaftsarchitektur, neuen Parkanlagen und einzigartiger Blütenpracht.
+
+Abreise Öschelbronn  ca.08:00 h    Rückkehr ca. 19:30 h
+
+Leistungen: 
+Busreise
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3163" Buchungscode="T252405-1" Start="2025-05-24" Ende="2025-05-24"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1331.jpg" Sortierung="1"/></Bilder><Route Name="Route9"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3164" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Gartenschau Freudenstadt und Baiersbronn 2025"><Ziel Land="DEU" Stadt="Gartenschau Freudenstadt und Baiersbronn 2025"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Gartenschau Freudenstadt und Baiersbronn 2025
+
+Freudenstadt mit seinem weitläufigen Marktplatz auf der einen Seite. Das kulinarisch herausragende Baiersbronn auf der anderen. Dazwischen ein idyllisches Tal, das für einen langen Sommer aus dem Dornröschenschlaf erwacht und ganz neu erblüht.
+eran­staltungen aus den Bereichen Garten, Natur, Kunst und Kultur auf Sie! Genießen Sie das abwechs­lungsreiche Programm und erleben Sie einen bunten Tag inmitten von innovativer Landschaftsarchitektur, neuen Parkanlagen und einzigartiger Blütenpracht.
+
+Abreise Öschelbronn  ca.08:00 h    Rückkehr ca. 19:30 h
+
+Leistungen: 
+Busreise
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3164" Buchungscode="T252106-1" Start="2025-06-21" Ende="2025-06-21"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1332.jpg" Sortierung="1"/></Bilder><Route Name="Route10"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3165" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Gartenschau Freudenstadt und Baiersbronn 2025"><Ziel Land="DEU" Stadt="Gartenschau Freudenstadt und Baiersbronn 2025"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Gartenschau Freudenstadt und Baiersbronn 2025
+
+Freudenstadt mit seinem weitläufigen Marktplatz auf der einen Seite. Das kulinarisch herausragende Baiersbronn auf der anderen. Dazwischen ein idyllisches Tal, das für einen langen Sommer aus dem Dornröschenschlaf erwacht und ganz neu erblüht.
+eran­staltungen aus den Bereichen Garten, Natur, Kunst und Kultur auf Sie! Genießen Sie das abwechs­lungsreiche Programm und erleben Sie einen bunten Tag inmitten von innovativer Landschaftsarchitektur, neuen Parkanlagen und einzigartiger Blütenpracht.
+
+Abreise Öschelbronn  ca.08:00 h    Rückkehr ca. 19:30 h
+
+Leistungen: 
+Busreise
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3165" Buchungscode="T250609-1" Start="2025-09-06" Ende="2025-09-06"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1333.jpg" Sortierung="1"/></Bilder><Route Name="Route11"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3166" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Gartenschau Freudenstadt und Baiersbronn 2025"><Ziel Land="DEU" Stadt="Gartenschau Freudenstadt und Baiersbronn 2025"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Gartenschau Freudenstadt und Baiersbronn 2025
+
+Freudenstadt mit seinem weitläufigen Marktplatz auf der einen Seite. Das kulinarisch herausragende Baiersbronn auf der anderen. Dazwischen ein idyllisches Tal, das für einen langen Sommer aus dem Dornröschenschlaf erwacht und ganz neu erblüht.
+eran­staltungen aus den Bereichen Garten, Natur, Kunst und Kultur auf Sie! Genießen Sie das abwechs­lungsreiche Programm und erleben Sie einen bunten Tag inmitten von innovativer Landschaftsarchitektur, neuen Parkanlagen und einzigartiger Blütenpracht.
+
+Abreise Öschelbronn  ca.08:00 h    Rückkehr ca. 19:30 h
+
+Leistungen: 
+Busreise
+Eintritt]]></Beschreibung><Termine><Termin ObjektID="T3166" Buchungscode="T250110-1" Start="2025-10-01" Ende="2025-10-01"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1334.jpg" Sortierung="1"/></Bilder><Route Name="Route12"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3167" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Strasbourg"><Ziel Land="DEU" Stadt="Strasbourg"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Strasbourg
+
+Heute geht es nach Strasbourg. Die charmante Hauptstadt des Elsass in Frankreich, ist ein Ort voller Geschichte, Kultur und architektonischer Schönheit. Geprägt von französischen und deutschen Einflüssen, besticht die Stadt mit ihrer einzigartigen Mischung aus Tradition und Moderne.
+
+Abreise Öschelbronn  ca.08:30 h    Rückkehr ca. 20:00 h
+
+Leistungen: 
+Busreise]]></Beschreibung><Termine><Termin ObjektID="T3167" Buchungscode="T253105-1" Start="2025-05-31" Ende="2025-05-31"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="59.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="59.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1335.jpg" Sortierung="1"/></Bilder><Route Name="Route13"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3168" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Strasbourg"><Ziel Land="DEU" Stadt="Strasbourg"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Strasbourg
+
+Heute geht es nach Strasbourg. Die charmante Hauptstadt des Elsass in Frankreich, ist ein Ort voller Geschichte, Kultur und architektonischer Schönheit. Geprägt von französischen und deutschen Einflüssen, besticht die Stadt mit ihrer einzigartigen Mischung aus Tradition und Moderne.
+
+Abreise Öschelbronn  ca.08:30 h    Rückkehr ca. 20:00 h
+
+Leistungen: 
+Busreise]]></Beschreibung><Termine><Termin ObjektID="T3168" Buchungscode="T251110-1" Start="2025-10-11" Ende="2025-10-11"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="59.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Eintritt" Preis="59.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1336.jpg" Sortierung="1"/></Bilder><Route Name="Route14"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3169" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mit dem Schiff von Bingen zur Loreley"><Ziel Land="DEU" Stadt="Mit dem Schiff von Bingen zur Loreley"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Von Bingen zur Loreley incl. Schifffahrt
+
+Ihre heutige Reise führt Sie vorbei an Speyer nach Bingen/Rhein. Anschließend unternehmen Sie eine Schifffahrt auf dem Rhein. Sie schippern vorbei an den Burgen des Rheintals und an bekannten Weinorten wie Bingen und Lorch. In St. Goarshausen endet Ihre Reise. Anschließend Auffahrt zur Loreley. Unternehmen Sie einen kleinen Spaziergang und genießen die tolle Aussicht. Am Nachmittag haben Sie noch etwas Zeit zur freien Verfügung in Rüdesheim. Schlendern Sie durch die berühmte Drosselgasse oder genießen Sie in einem der zahlreichen Cafés eine Tasse Kaffee.
+
+Abreise Öschelbronn 08:00 h      Rückkehr 20:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3169" Buchungscode="T251406-1" Start="2025-06-14" Ende="2025-06-14"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1337.jpg" Sortierung="1"/></Bilder><Route Name="Route15"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3170" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mit dem Schiff von Bingen zur Loreley"><Ziel Land="DEU" Stadt="Mit dem Schiff von Bingen zur Loreley"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Von Bingen zur Loreley incl. Schifffahrt
+
+Ihre heutige Reise führt Sie vorbei an Speyer nach Bingen/Rhein. Anschließend unternehmen Sie eine Schifffahrt auf dem Rhein. Sie schippern vorbei an den Burgen des Rheintals und an bekannten Weinorten wie Bingen und Lorch. In St. Goarshausen endet Ihre Reise. Anschließend Auffahrt zur Loreley. Unternehmen Sie einen kleinen Spaziergang und genießen die tolle Aussicht. Am Nachmittag haben Sie noch etwas Zeit zur freien Verfügung in Rüdesheim. Schlendern Sie durch die berühmte Drosselgasse oder genießen Sie in einem der zahlreichen Cafés eine Tasse Kaffee.
+
+Abreise Öschelbronn 08:00 h      Rückkehr 20:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3170" Buchungscode="T251207-1" Start="2025-07-12" Ende="2025-07-12"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1338.jpg" Sortierung="1"/></Bilder><Route Name="Route16"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3171" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mit dem Schiff von Bingen zur Loreley"><Ziel Land="DEU" Stadt="Mit dem Schiff von Bingen zur Loreley"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Von Bingen zur Loreley incl. Schifffahrt
+
+Ihre heutige Reise führt Sie vorbei an Speyer nach Bingen/Rhein. Anschließend unternehmen Sie eine Schifffahrt auf dem Rhein. Sie schippern vorbei an den Burgen des Rheintals und an bekannten Weinorten wie Bingen und Lorch. In St. Goarshausen endet Ihre Reise. Anschließend Auffahrt zur Loreley. Unternehmen Sie einen kleinen Spaziergang und genießen die tolle Aussicht. Am Nachmittag haben Sie noch etwas Zeit zur freien Verfügung in Rüdesheim. Schlendern Sie durch die berühmte Drosselgasse oder genießen Sie in einem der zahlreichen Cafés eine Tasse Kaffee.
+
+Abreise Öschelbronn 08:00 h      Rückkehr 20:00 h
+
+
+
+Leistungen: 
+Busreise
+Schifffahrt]]></Beschreibung><Termine><Termin ObjektID="T3171" Buchungscode="T251309-1" Start="2025-09-13" Ende="2025-09-13"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="69.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Schifffahrt" Preis="69.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1339.jpg" Sortierung="1"/></Bilder><Route Name="Route17"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3172" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Spessart-Erkundung"><Ziel Land="DEU" Stadt="Spessart-Erkundung"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Spessart-Erkundung: Kloster Bronnbach, Gasthaus Riesen und Main-Schifffahrt
+
+Am Vormittag werden Sie in Miltenberg zu einer Rundfahrt auf dem Main erwartet. Die Fahrt führt Sie mainaufwärts zur über 700 Jahre alten Stadt Freudenberg und wieder zurück. In Miltenberg geht es dann zum ältesten Gasthaus Deutschlands, dem Gasthaus Riesen. Am Nachmittag besuchen Sie in Wertheim das Kloster Bronnbach. Die ehemalige Zisterzienserabtei aus dem 12. Jahrhundert befindet sich idyllisch gelegen im "Lieblichen Taubertal". 
+
+
+Abreise Öschelbronn  ca. 07:30 h      Rückkehr  ca. 19:30 h  
+
+Leistungen: 
+Busreise 
+Schifffahrt
+Eintritt Kloster]]></Beschreibung><Termine><Termin ObjektID="T3172" Buchungscode="T251907-1" Start="2025-07-19" Ende="2025-07-19"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="79.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl.Leistungen" Preis="79.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1340.jpg" Sortierung="1"/></Bilder><Route Name="Route18"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="07:20 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3173" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mode Betz und Gasthof Friedrichshöhle"><Ziel Land="DEU" Stadt="Mode Betz und Gasthof Friedrichshöhle"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Reise zum Mode Betz und Gasthof Friedrichshöhle
+
+Über Reutlingen und Pfullingen reisen Sie nach Ödenwaldstetten zum Betz. Dort werden Sie mit einem Sektempfang und Frühstück erwartet. Danach sehen Sie eine Modenschau und haben Gelegenheit zum Einkauf. Nach dem Mittagessen geht es weiter durch das schöne Lautertal zur Wimsener Höhle. Der Gasthof Friedrichshöhle lädt ein zum Verweilen und Genießen. Anschließend fahren Sie wieder zurück in die Heimat.
+
+
+Abreise Öschelbronn ca. 8:00 h   Rückkehr ca. 18:00 h 
+
+Leistungen: 
+Sektempfang
+Frühstück 
+Mittagessen 
+Modenschau]]></Beschreibung><Termine><Termin ObjektID="T3173" Buchungscode="T251607-1" Start="2025-07-16" Ende="2025-07-16"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistungen" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1341.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3174" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Volksschauspiele Ötigheim - Im weißen Rössl"><Ziel Land="DEU" Stadt="Volksschauspiele Ötigheim - Im weißen Rössl"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Im  weißen Rössl
+
+Wenn die Dirndl fliegen und die Lederhose kracht, wenn Berliner Großstadtschnauze auf Alpendialekt trifft, wenn liebestolle Kellner singen, die Postbotin jodelt und die Kühe steppen, dann wissen wir: Wir befinden uns „Im weißen Rössl" am Wolfgangsee!
+
+
+Lesitungen
+Busreise 
+Eintrittskarte]]></Beschreibung><Termine><Termin ObjektID="T3174" Buchungscode="T250507-1" Start="2025-07-25" Ende="2025-07-25"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="79.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis inkl. PK 2" Preis="79.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1342.jpg" Sortierung="1"/></Bilder><Route Name="Route19"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="17:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3175" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Volksschauspiele Ötigheim - Don Camillo und Peppone"><Ziel Land="DEU" Stadt="Volksschauspiele Ötigheim - Don Camillo und Peppone"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Don Camillo und Peppone
+
+Die Stimmung ist aufgeheizt im kleinen Dorf in der italienischen Bassa. Kommunist Peppone hat die Gemeindewahl gewonnen, nun will er auch noch seinen Sohn auf den Namen Lenin taufen lassen! Das geht dem streitbaren Priester Don Camillo zu weit. Beide liefern sich in der italienischen Provinz einen erbitterten Glaubenskampf.
+
+Lesitungen
+Busreise 
+Eintrittskarte]]></Beschreibung><Termine><Termin ObjektID="T3175" Buchungscode="T250908-1" Start="2025-08-09" Ende="2025-08-09"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="79.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis inkl. Sperrsitz 1" Preis="79.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1343.jpg" Sortierung="1"/></Bilder><Route Name="Route20"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="17:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3176" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Keschdefeschd und Weinlesefest in der Pfalz"><Ziel Land="DEU" Stadt="Keschdefeschd und Weinlesefest in der Pfalz"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Keschdefeschd und Weinlesefest in der Pfalz
+
+Beim Keschdefeschd vom 03. bis 05. Oktober 2025 in Annweiler am Trifels bieten zahlreiche Stände Gerichte und Produkte von und mit der Esskastanie an. Am Nachmittag geht es nach Neustadt zum Weinlesefest. Wein und Genuss gehen Hand in Hand und treffen sich im Herzen der ältesten Weinstraße der Welt. Das Deutsche Weinlesefest ist der Höhepunkt der Pfälzer Weinfestsaison.
+
+Abreise Öschelbronn  ca. 10:00 h         Rückkehr  ca. 21:30 h  
+
+Leistungen:
+Busreise]]></Beschreibung><Termine><Termin ObjektID="T3176" Buchungscode="T250410-1" Start="2025-10-04" Ende="2025-10-04"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="49.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistung" Preis="49.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1344.jpg" Sortierung="1"/></Bilder><Route Name="Route21"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="12:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3177" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Chrysanthema Lahr"><Ziel Land="DEU" Stadt="Chrysanthema Lahr"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Reise zur Chrysanthema nach Lahr
+
+Das Blumen- und Kulturfestival Chrysanthema begrüßt Sie in diesem Jahr wieder in der Lahrer Innenstadt. Es erwarten Sie zwei ereignisreiche Wochen voller blühender Fantasien.
+
+Abreise Öschelbronn  ca. 09:30 h         Rückkehr  ca. 18:30 h  
+
+Leistungen:
+Busreise]]></Beschreibung><Termine><Termin ObjektID="T3177" Buchungscode="T250511-1" Start="2025-11-05" Ende="2025-11-05"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="49.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistung" Preis="49.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1345.jpg" Sortierung="1"/></Bilder><Route Name="Route22"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="09:30 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3178" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Mode Betz  und  Ritter Sport"><Ziel Land="DEU" Stadt="Mode Betz  und  Ritter Sport"/><Typen><Typ Titel="TAGESFAHRT"/></Typen><Beschreibung><![CDATA[Mode Betz und Ritter Sport
+
+Über Reutlingen und Pfullingen reisen Sie nach Ödenwaldstetten zum Betz. Dort werden Sie mit einem Sektempfang und Frühstück erwartet. Danach sehen Sie eine Modenschau und haben Gelegenheit zum Einkauf. Nach dem Mittagessen geht es weiter zum Fabrikverkauf bei Ritter Sport. Anschließend geht es wieder zurück in die Heimat.
+
+Abreise Öschelbronn 8:00 h   Rückkehr 18:00 h 
+
+Leistungen: 
+
+Sektempfang
+Frühstück
+Modenschau 
+Mittagessen]]></Beschreibung><Termine><Termin ObjektID="T3178" Buchungscode="T251012-1" Start="2025-12-10" Ende="2025-12-10"><Unterkunft Name="Tagesfahrt"><Kategorie Titel="Reisepreis nur Internetdarstellung" Preis="44.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Optionen><Option Titel="Reisepreis incl. Leistungen" Preis="44.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1346.jpg" Sortierung="1"/></Bilder><Route Name="Route23"><Haltestelle Name="Öschelbronn, Betriebshof" Postleitzahl="75223" Ort="08:00 | Öschelbronn, Betriebshof" Preis="0.00"/></Route></Reise><Reise ObjektID="3179" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
 
 Kur & Erholung genießen
 
@@ -27,536 +761,173 @@ Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
 Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
 
 Ihre Hotels
+Ihr Hotel Dein Franz befindet sich inmitten des berühmten Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstraße und die THERME EINS sind in wenigen Minuten bequem fußläufig zu erreichen. 
+
+Das Hotel Phönix liegt ruhig am Ortsrand von Bad Füssing, in Sichtweite der Johannesbad Therme. Die belebte Kurallee beginnt in unmittelbarer Nähe des Hotels.
 
 Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
 
-Das Hotel füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+Das Kurhotel Sonnenhof liegt zentral und dennoch ruhig im Herzen von Bad Füssing in der Nähe des Kurparks. Die Flaniermeile mit Geschäften und Cafés ist in wenigen Gehminuten erreichbar.
 
 Unsere Leistungen
 • Haustürabholung inkl. Kofferservice
 • An- und Abreise im modernen Fernreisebus
 • 7 x Übernachtung mit Halbpension
 • Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3126" Buchungscode="M252701-1" Start="2025-01-27" Ende="2025-02-03"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"/><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="977.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1110.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1301.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3127" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3179" Buchungscode="M250505-1" Start="2025-05-05" Ende="2025-05-05"><Kategorie Titel="Busfahrt NUR HINFAHRT" Preis="149.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Termin></Termine><Optionen><Option Titel="Busfahrt NUR HINFAHRT" Preis="149.00"/></Optionen><Bilder><Bild Dateiname="1ba4302_1347.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3180" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Nordsee Spezial"><Ziel Land="DEU" Stadt="Nordsee Spezial"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Nordsee Spezial
 
-Kur & Erholung genießen
+Sylt, Amrum, Föhr & Co.
 
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+Entdecken Sie mit uns die Faszination, die von der Nordsee ausgeht und die Besucher in ihren Bann zieht. Sie sehen nicht nur Sylt und weitere Inseln, sondern auch das überraschend reizvolle Flensburg und unternehmen einen Ausflug ins Nachbarland Dänemark.
 
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
 
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+1. Anreise
+Nordsee Sie reisen über die Autobahn vorbei an Hannover und durch die Lüneburger Heide an die Nordseeküste an. Wie wäre es bereits mit einem ersten kleinen Spaziergang?
 
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+2.Tag Nordseeinsel-Hüpfen: Amrum & Föhr
+Nach dem Frühstück geht es mit der Fähre vorbei an den Halligen zunächst nach Amrum. Bei einer geführten Inselrundfahrt erleben Sie die schönsten Sehenswürdigkeiten der Insel. Es bleibt auch Zeit für eigene Erkundungen, bevor es auf die Nachbarinsel Föhr geht. Hübsche Inseldörfer mit alten Friesenhäusern aus der Seefahrerzeit sind das „Markenzeichen". Wir bummeln über die Wyker Strandpromenade mit einer bunten Vielfalt an Geschäften, Restaurants und Cafés. Am späten Nachmittag geht es mit der Fähre wieder zurück.
 
-Ihre Hotels
+3.Tag Hallig Hooge und Husum (fak.)
+Sie nutzen den Tag z.B. für einen Deichspaziergang durch das Vogelschutzgebiet oder folgen uns zu einem weiteren Höhepunkt der Region: Genießen Sie die Nordsee bei einer Schifffahrt durch den Nationalpark Schleswig-Holsteinisches Wattenmeer. Auf Hooge unternehmen Sie eine überaus interessante Halligführung per Kutsche und besuchen Kirchwarft. Es bleibt noch Zeit bspw. das Sturmflutkino zu besuchen. Auf der Rückfahrt besuchen Sie Husum. Die Geburtsstadt von Theodor Storm lernen Sie im Rahmen einer kleinen Führung näher kennen.
 
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+4.Tag Insel Sylt - Promitreff der Nordsee
+Nach dem Frühstück geht es zunächst in die zauberhafte Stadt Tondern mit ihren charakteristischen niedrigen Giebelhäusern. Von Romo setzen Sie über auf die Nordseeinsel Sylt. Hier unternehmen Sie eine Inselrundfahrt über Hörnum und Kampen bis nach List. Nach der Mittagspause geht es weiter nach Westerland, wo Zeit für einen individuellen „Schaufensterbummel" auf der Einkaufsstraße oder einen Strandspaziergang bleibt. Halten Sie die Augen offen: Sylt ist für die extrem hohe „Prominenten-Dichte" bekannt. Der Sylt-Shuttle (Autozug) bringt Sie wieder zurück.
 
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+5.Tag Flensburg & Grenzgang  Königreich Dänemark
+Auch heute versprechen wir wieder einen Tag voller Höhepunkte. Sie lernen zunächst die Rum-Stadt Flensburg mit ihrer maritimen Tradition bei einem Stadtrundgang und einem Spaziergang an der Förde kennen. Nach der Mittagspause fahren Sie durch das Flensburger Fördeland nach Dänemark. Dort besuchen Sie das wunderschöne Sonderburg. Die Geschäfte laden zu einer entspannten Shoppingtour ein, in den zahlreichen Cafés und Restaurants kann man sich kulinarisch verwöhnen lassen und die Hafenpromenade ist wunderbar für einen Spaziergang geeignet.
 
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+6. Tag Heimreise
+Ein Nordseeurlaub der ganz besonderen Art geht zu Ende.
 
+Ihr Hotel ***
+3* Hotel Arlau Schleuse
+im guten und gemütlichen Mittelklassehotel Arlau Schleuse direkt am Deich und inmitten der unberührten Natur des Nationalparks Schleswig-Holsteinisches Wattenmeer. Alle Zimmer sind Nichtraucher-Zimmer und mit Dusche/WC, Telefon und TV ausgestattet. Kleine Wellness-Oase mit Blockbohlensauna, Bio-Soft-Sauna mit Farblicht-Therapie und Solarium. Im Hotel werden Sie mit guter Küche und vielen regionalen Spezialitäten verwöhnt.
+
+Powered by
 Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3127" Buchungscode="M250112-1" Start="2025-12-01" Ende="2025-12-08"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="897.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="597.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="702.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="977.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1110.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1302.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3128" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+• Schlienz-Haustürservice
+• Reise im Luxusbus Super Class 2+1
+• 5 x Übernachtung im 3*Hotel
+• 5 x Frühstücksbuffet
+• 5 x Abendessen als 3-Gang-Menü
+• Amrum & Föhr inkl. Reiseleitung und Fährüberfahrten
+• Sylt mit Reiseleitung inkl. Überfahrten mit dem Sylt-Shuttle (Autozug)
+• Flensburg & Dänemark mit Reiseleitung
+• Schlienz-Reisebegleitung]]></Beschreibung><Termine><Termin ObjektID="T3180" Buchungscode="M251005-1" Start="2025-05-10" Ende="2025-05-15"><Unterkunft Name="Hotel laut Ausschreibung"><Kategorie Titel="Ausfl. Hallig Hooge &amp; Husum" Preis="69.00"/><Kategorie Titel="DZ  incl. Leistungen" Preis="1499.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ  incl. Leistungen" Preis="1638.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1348.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3181" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Nordsee Spezial"><Ziel Land="DEU" Stadt="Nordsee Spezial"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Nordsee Spezial
 
-Kur & Erholung genießen
+Sylt, Amrum, Föhr & Co.
 
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+Entdecken Sie mit uns die Faszination, die von der Nordsee ausgeht und die Besucher in ihren Bann zieht. Sie sehen nicht nur Sylt und weitere Inseln, sondern auch das überraschend reizvolle Flensburg und unternehmen einen Ausflug ins Nachbarland Dänemark.
 
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
 
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+1. Anreise
+Nordsee Sie reisen über die Autobahn vorbei an Hannover und durch die Lüneburger Heide an die Nordseeküste an. Wie wäre es bereits mit einem ersten kleinen Spaziergang?
 
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+2.Tag Nordseeinsel-Hüpfen: Amrum & Föhr
+Nach dem Frühstück geht es mit der Fähre vorbei an den Halligen zunächst nach Amrum. Bei einer geführten Inselrundfahrt erleben Sie die schönsten Sehenswürdigkeiten der Insel. Es bleibt auch Zeit für eigene Erkundungen, bevor es auf die Nachbarinsel Föhr geht. Hübsche Inseldörfer mit alten Friesenhäusern aus der Seefahrerzeit sind das „Markenzeichen". Wir bummeln über die Wyker Strandpromenade mit einer bunten Vielfalt an Geschäften, Restaurants und Cafés. Am späten Nachmittag geht es mit der Fähre wieder zurück.
 
-Ihre Hotels
+3.Tag Hallig Hooge und Husum (fak.)
+Sie nutzen den Tag z.B. für einen Deichspaziergang durch das Vogelschutzgebiet oder folgen uns zu einem weiteren Höhepunkt der Region: Genießen Sie die Nordsee bei einer Schifffahrt durch den Nationalpark Schleswig-Holsteinisches Wattenmeer. Auf Hooge unternehmen Sie eine überaus interessante Halligführung per Kutsche und besuchen Kirchwarft. Es bleibt noch Zeit bspw. das Sturmflutkino zu besuchen. Auf der Rückfahrt besuchen Sie Husum. Die Geburtsstadt von Theodor Storm lernen Sie im Rahmen einer kleinen Führung näher kennen.
 
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+4.Tag Insel Sylt - Promitreff der Nordsee
+Nach dem Frühstück geht es zunächst in die zauberhafte Stadt Tondern mit ihren charakteristischen niedrigen Giebelhäusern. Von Romo setzen Sie über auf die Nordseeinsel Sylt. Hier unternehmen Sie eine Inselrundfahrt über Hörnum und Kampen bis nach List. Nach der Mittagspause geht es weiter nach Westerland, wo Zeit für einen individuellen „Schaufensterbummel" auf der Einkaufsstraße oder einen Strandspaziergang bleibt. Halten Sie die Augen offen: Sylt ist für die extrem hohe „Prominenten-Dichte" bekannt. Der Sylt-Shuttle (Autozug) bringt Sie wieder zurück.
 
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+5.Tag Flensburg & Grenzgang  Königreich Dänemark
+Auch heute versprechen wir wieder einen Tag voller Höhepunkte. Sie lernen zunächst die Rum-Stadt Flensburg mit ihrer maritimen Tradition bei einem Stadtrundgang und einem Spaziergang an der Förde kennen. Nach der Mittagspause fahren Sie durch das Flensburger Fördeland nach Dänemark. Dort besuchen Sie das wunderschöne Sonderburg. Die Geschäfte laden zu einer entspannten Shoppingtour ein, in den zahlreichen Cafés und Restaurants kann man sich kulinarisch verwöhnen lassen und die Hafenpromenade ist wunderbar für einen Spaziergang geeignet.
 
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+6. Tag Heimreise
+Ein Nordseeurlaub der ganz besonderen Art geht zu Ende.
 
+Ihr Hotel ***
+3* Hotel Arlau Schleuse
+im guten und gemütlichen Mittelklassehotel Arlau Schleuse direkt am Deich und inmitten der unberührten Natur des Nationalparks Schleswig-Holsteinisches Wattenmeer. Alle Zimmer sind Nichtraucher-Zimmer und mit Dusche/WC, Telefon und TV ausgestattet. Kleine Wellness-Oase mit Blockbohlensauna, Bio-Soft-Sauna mit Farblicht-Therapie und Solarium. Im Hotel werden Sie mit guter Küche und vielen regionalen Spezialitäten verwöhnt.
+
+Powered by
 Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3128" Buchungscode="M251702-1" Start="2025-02-17" Ende="2025-02-24"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1027.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1160.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1303.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3129" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+• Schlienz-Haustürservice
+• Reise im Luxusbus Super Class 2+1
+• 5 x Übernachtung im 3*Hotel
+• 5 x Frühstücksbuffet
+• 5 x Abendessen als 3-Gang-Menü
+• Amrum & Föhr inkl. Reiseleitung und Fährüberfahrten
+• Sylt mit Reiseleitung inkl. Überfahrten mit dem Sylt-Shuttle (Autozug)
+• Flensburg & Dänemark mit Reiseleitung
+• Schlienz-Reisebegleitung]]></Beschreibung><Termine><Termin ObjektID="T3181" Buchungscode="M250107-1" Start="2025-07-01" Ende="2025-07-06"><Unterkunft Name="Hotel laut Ausschreibung"><Kategorie Titel="Ausfl. Hallig Hooge &amp; Husum" Preis="69.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="DZ  incl. Leistungen" Preis="1589.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ  incl. Leistungen" Preis="1728.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1349.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3182" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Nordsee Spezial"><Ziel Land="DEU" Stadt="Nordsee Spezial"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Nordsee Spezial
 
-Kur & Erholung genießen
+Sylt, Amrum, Föhr & Co.
 
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+Entdecken Sie mit uns die Faszination, die von der Nordsee ausgeht und die Besucher in ihren Bann zieht. Sie sehen nicht nur Sylt und weitere Inseln, sondern auch das überraschend reizvolle Flensburg und unternehmen einen Ausflug ins Nachbarland Dänemark.
 
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
 
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+1. Anreise
+Nordsee Sie reisen über die Autobahn vorbei an Hannover und durch die Lüneburger Heide an die Nordseeküste an. Wie wäre es bereits mit einem ersten kleinen Spaziergang?
 
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+2.Tag Nordseeinsel-Hüpfen: Amrum & Föhr
+Nach dem Frühstück geht es mit der Fähre vorbei an den Halligen zunächst nach Amrum. Bei einer geführten Inselrundfahrt erleben Sie die schönsten Sehenswürdigkeiten der Insel. Es bleibt auch Zeit für eigene Erkundungen, bevor es auf die Nachbarinsel Föhr geht. Hübsche Inseldörfer mit alten Friesenhäusern aus der Seefahrerzeit sind das „Markenzeichen". Wir bummeln über die Wyker Strandpromenade mit einer bunten Vielfalt an Geschäften, Restaurants und Cafés. Am späten Nachmittag geht es mit der Fähre wieder zurück.
 
-Ihre Hotels
+3.Tag Hallig Hooge und Husum (fak.)
+Sie nutzen den Tag z.B. für einen Deichspaziergang durch das Vogelschutzgebiet oder folgen uns zu einem weiteren Höhepunkt der Region: Genießen Sie die Nordsee bei einer Schifffahrt durch den Nationalpark Schleswig-Holsteinisches Wattenmeer. Auf Hooge unternehmen Sie eine überaus interessante Halligführung per Kutsche und besuchen Kirchwarft. Es bleibt noch Zeit bspw. das Sturmflutkino zu besuchen. Auf der Rückfahrt besuchen Sie Husum. Die Geburtsstadt von Theodor Storm lernen Sie im Rahmen einer kleinen Führung näher kennen.
 
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+4.Tag Insel Sylt - Promitreff der Nordsee
+Nach dem Frühstück geht es zunächst in die zauberhafte Stadt Tondern mit ihren charakteristischen niedrigen Giebelhäusern. Von Romo setzen Sie über auf die Nordseeinsel Sylt. Hier unternehmen Sie eine Inselrundfahrt über Hörnum und Kampen bis nach List. Nach der Mittagspause geht es weiter nach Westerland, wo Zeit für einen individuellen „Schaufensterbummel" auf der Einkaufsstraße oder einen Strandspaziergang bleibt. Halten Sie die Augen offen: Sylt ist für die extrem hohe „Prominenten-Dichte" bekannt. Der Sylt-Shuttle (Autozug) bringt Sie wieder zurück.
 
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+5.Tag Flensburg & Grenzgang  Königreich Dänemark
+Auch heute versprechen wir wieder einen Tag voller Höhepunkte. Sie lernen zunächst die Rum-Stadt Flensburg mit ihrer maritimen Tradition bei einem Stadtrundgang und einem Spaziergang an der Förde kennen. Nach der Mittagspause fahren Sie durch das Flensburger Fördeland nach Dänemark. Dort besuchen Sie das wunderschöne Sonderburg. Die Geschäfte laden zu einer entspannten Shoppingtour ein, in den zahlreichen Cafés und Restaurants kann man sich kulinarisch verwöhnen lassen und die Hafenpromenade ist wunderbar für einen Spaziergang geeignet.
 
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+6. Tag Heimreise
+Ein Nordseeurlaub der ganz besonderen Art geht zu Ende.
 
+Ihr Hotel ***
+3* Hotel Arlau Schleuse
+im guten und gemütlichen Mittelklassehotel Arlau Schleuse direkt am Deich und inmitten der unberührten Natur des Nationalparks Schleswig-Holsteinisches Wattenmeer. Alle Zimmer sind Nichtraucher-Zimmer und mit Dusche/WC, Telefon und TV ausgestattet. Kleine Wellness-Oase mit Blockbohlensauna, Bio-Soft-Sauna mit Farblicht-Therapie und Solarium. Im Hotel werden Sie mit guter Küche und vielen regionalen Spezialitäten verwöhnt.
+
+Powered by
 Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3129" Buchungscode="M252411-1" Start="2025-11-24" Ende="2025-12-01"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="947.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1027.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1160.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1304.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3130" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
+• Schlienz-Haustürservice
+• Reise im Luxusbus Super Class 2+1
+• 5 x Übernachtung im 3*Hotel
+• 5 x Frühstücksbuffet
+• 5 x Abendessen als 3-Gang-Menü
+• Amrum & Föhr inkl. Reiseleitung und Fährüberfahrten
+• Sylt mit Reiseleitung inkl. Überfahrten mit dem Sylt-Shuttle (Autozug)
+• Flensburg & Dänemark mit Reiseleitung
+• Schlienz-Reisebegleitung]]></Beschreibung><Termine><Termin ObjektID="T3182" Buchungscode="M251808-1" Start="2025-08-18" Ende="2025-08-23"><Unterkunft Name="Hotel laut Ausschreibung"><Kategorie Titel="Ausfl. Hallig Hooge &amp; Husum" Preis="69.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="DZ  incl. Leistungen" Preis="1589.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ  incl. Leistungen" Preis="1728.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1350.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3183" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Nordsee Spezial"><Ziel Land="DEU" Stadt="Nordsee Spezial"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Nordsee Spezial
 
-Kur & Erholung genießen
+Sylt, Amrum, Föhr & Co.
 
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
+Entdecken Sie mit uns die Faszination, die von der Nordsee ausgeht und die Besucher in ihren Bann zieht. Sie sehen nicht nur Sylt und weitere Inseln, sondern auch das überraschend reizvolle Flensburg und unternehmen einen Ausflug ins Nachbarland Dänemark.
 
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
 
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
+1. Anreise
+Nordsee Sie reisen über die Autobahn vorbei an Hannover und durch die Lüneburger Heide an die Nordseeküste an. Wie wäre es bereits mit einem ersten kleinen Spaziergang?
 
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
+2.Tag Nordseeinsel-Hüpfen: Amrum & Föhr
+Nach dem Frühstück geht es mit der Fähre vorbei an den Halligen zunächst nach Amrum. Bei einer geführten Inselrundfahrt erleben Sie die schönsten Sehenswürdigkeiten der Insel. Es bleibt auch Zeit für eigene Erkundungen, bevor es auf die Nachbarinsel Föhr geht. Hübsche Inseldörfer mit alten Friesenhäusern aus der Seefahrerzeit sind das „Markenzeichen". Wir bummeln über die Wyker Strandpromenade mit einer bunten Vielfalt an Geschäften, Restaurants und Cafés. Am späten Nachmittag geht es mit der Fähre wieder zurück.
 
-Ihre Hotels
+3.Tag Hallig Hooge und Husum (fak.)
+Sie nutzen den Tag z.B. für einen Deichspaziergang durch das Vogelschutzgebiet oder folgen uns zu einem weiteren Höhepunkt der Region: Genießen Sie die Nordsee bei einer Schifffahrt durch den Nationalpark Schleswig-Holsteinisches Wattenmeer. Auf Hooge unternehmen Sie eine überaus interessante Halligführung per Kutsche und besuchen Kirchwarft. Es bleibt noch Zeit bspw. das Sturmflutkino zu besuchen. Auf der Rückfahrt besuchen Sie Husum. Die Geburtsstadt von Theodor Storm lernen Sie im Rahmen einer kleinen Führung näher kennen.
 
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
+4.Tag Insel Sylt - Promitreff der Nordsee
+Nach dem Frühstück geht es zunächst in die zauberhafte Stadt Tondern mit ihren charakteristischen niedrigen Giebelhäusern. Von Romo setzen Sie über auf die Nordseeinsel Sylt. Hier unternehmen Sie eine Inselrundfahrt über Hörnum und Kampen bis nach List. Nach der Mittagspause geht es weiter nach Westerland, wo Zeit für einen individuellen „Schaufensterbummel" auf der Einkaufsstraße oder einen Strandspaziergang bleibt. Halten Sie die Augen offen: Sylt ist für die extrem hohe „Prominenten-Dichte" bekannt. Der Sylt-Shuttle (Autozug) bringt Sie wieder zurück.
 
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
+5.Tag Flensburg & Grenzgang  Königreich Dänemark
+Auch heute versprechen wir wieder einen Tag voller Höhepunkte. Sie lernen zunächst die Rum-Stadt Flensburg mit ihrer maritimen Tradition bei einem Stadtrundgang und einem Spaziergang an der Förde kennen. Nach der Mittagspause fahren Sie durch das Flensburger Fördeland nach Dänemark. Dort besuchen Sie das wunderschöne Sonderburg. Die Geschäfte laden zu einer entspannten Shoppingtour ein, in den zahlreichen Cafés und Restaurants kann man sich kulinarisch verwöhnen lassen und die Hafenpromenade ist wunderbar für einen Spaziergang geeignet.
 
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
+6. Tag Heimreise
+Ein Nordseeurlaub der ganz besonderen Art geht zu Ende.
 
+Ihr Hotel ***
+3* Hotel Arlau Schleuse
+im guten und gemütlichen Mittelklassehotel Arlau Schleuse direkt am Deich und inmitten der unberührten Natur des Nationalparks Schleswig-Holsteinisches Wattenmeer. Alle Zimmer sind Nichtraucher-Zimmer und mit Dusche/WC, Telefon und TV ausgestattet. Kleine Wellness-Oase mit Blockbohlensauna, Bio-Soft-Sauna mit Farblicht-Therapie und Solarium. Im Hotel werden Sie mit guter Küche und vielen regionalen Spezialitäten verwöhnt.
+
+Powered by
 Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3130" Buchungscode="M251011-1" Start="2025-11-10" Ende="2025-11-17"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="677.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="782.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1305.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3131" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3131" Buchungscode="M251003-1" Start="2025-03-10" Ende="2025-03-17"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="727.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="832.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1306.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3132" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3132" Buchungscode="M251404-1" Start="2025-04-14" Ende="2025-04-21"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1307.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3133" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3133" Buchungscode="M250311-1" Start="2025-11-03" Ende="2025-11-10"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="727.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="832.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1308.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3134" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3134" Buchungscode="M253006-1" Start="2025-06-30" Ende="2025-07-07"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1309.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3135" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3135" Buchungscode="M252107-1" Start="2025-07-21" Ende="2025-07-28"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="997.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1077.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1210.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1310.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3136" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3136" Buchungscode="M252804-1" Start="2025-04-28" Ende="2025-05-05"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1311.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3137" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3137" Buchungscode="M251205-1" Start="2025-05-12" Ende="2025-05-19"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1312.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3138" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3138" Buchungscode="M250206-1" Start="2025-06-02" Ende="2025-06-09"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1313.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3139" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3139" Buchungscode="M252306-1" Start="2025-06-23" Ende="2025-06-30"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1314.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3140" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3140" Buchungscode="M250408-1" Start="2025-08-04" Ende="2025-08-11"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1315.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3141" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3141" Buchungscode="M252508-1" Start="2025-08-25" Ende="2025-09-01"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1316.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3142" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3142" Buchungscode="M250809-1" Start="2025-09-08" Ende="2025-09-15"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="827.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="932.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1317.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3143" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3143" Buchungscode="M252909-1" Start="2025-09-29" Ende="2025-10-06"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Dein Franz"><Kategorie Titel="DZ inkl. Leistungen Hotel Dein Franz" Preis="777.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Dein Franz" Preis="882.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1318.jpg" Sortierung="1"/></Bilder></Reise><Reise ObjektID="3144" Aktion="bearbeiten" xmlns="http://schnittstelle.easytourist.de/export" Titel="Erholungsreise nach Bad Füssing"><Ziel Land="DEU" Stadt="Erholungsreise nach Bad Füssing"/><Typen><Typ Titel="MEHRTAGESFAHRT"/></Typen><Beschreibung><![CDATA[Bad Füssing
-
-Kur & Erholung genießen
-
-Nicht ohne Grund gilt Bad Füssing als beliebtestes Heilbad Europas - gleich drei Thermen verwöhnen Sie hier mit einem wohltuenden Angebot rund um das Bad Füssinger Heilwasser. Dieses hat nachweislich eine ganz besondere Heilwirkung, die sich vor allem bei Erkrankungen des Bewegungsapparats zeigt. Aktiv-Urlauber kommen auf dem weitläufi -
-gen Nordic Walking-Parcours rund um Bad Füssing mit über 170 Kilometern Wegstrecke auf ihre Kosten. Außerdem bietet der Kurort ein schier grenzenloses Freizeitangebot, u.a. mit Kurorchester, Kur- und Freizeitpark, zwei Kinos, Spielcasino und jährlich über 2.200 Kultur-Veranstaltungen.
-
-1. Tag: Anreise 
-Sie reisen von zu Hause in Ihr gebuchtes Hotel.
-
-2.-7. Tag: 
-Aufenthalt und Übernachtung in Ihrem gebuchten Hotel.
-
-8. Tag: Rückreise
-Heute heißt es Abschied nehmen und Sie fahren zurück nach Hause. 
-
-Ihre Hotels
-
-Das Hotel Königshof liegt zentral, aber dennoch in ruhiger Umgebung zwischen Kurplatz und  Freizeitpark. Die Johannesbad Therme erreichen Sie bequem mit dem kostenlosen Bus-Pendelverkehr. 
-
-Das Hotel Füssinger Hof liegt mitten im Ortskern von Bad Füssing. Die beliebte Kurallee un der Kurplatz mit angrenzendem Kurpark sind fußläufig bequem zu erreichen. 
-
-Das Hotel Dein Franz befindet sich inmitten des Kurorts Bad Füssing. Der Kurpark, eine kleine Ladenstrasse und die THERME EINS sind bequem in wenigen Minuten fußläufig zu erreichen.
-
-Unsere Leistungen
-• Haustürabholung inkl. Kofferservice
-• An- und Abreise im modernen Fernreisebus
-• 7 x Übernachtung mit Halbpension
-• Örtliche Reiseleitung 
-• Diverse inkl. Leistungen je nach gebuchtem Hotel]]></Beschreibung><Termine><Termin ObjektID="T3144" Buchungscode="M251310-1" Start="2025-10-13" Ende="2025-10-20"><Unterkunft Name="Hotel Füssinger Hof"><Kategorie Titel="DZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Füssinger Hof" Preis="1047.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft><Unterkunft Name="Hotel Königshof"><Kategorie Titel="DZ inkl. Leistungen Hotel Königshof" Preis="1127.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ inkl. Leistungen Hotel Königshof" Preis="1260.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="bfa4747_1319.jpg" Sortierung="1"/></Bilder></Reise></EasytouristTransfer>
+• Schlienz-Haustürservice
+• Reise im Luxusbus Super Class 2+1
+• 5 x Übernachtung im 3*Hotel
+• 5 x Frühstücksbuffet
+• 5 x Abendessen als 3-Gang-Menü
+• Amrum & Föhr inkl. Reiseleitung und Fährüberfahrten
+• Sylt mit Reiseleitung inkl. Überfahrten mit dem Sylt-Shuttle (Autozug)
+• Flensburg & Dänemark mit Reiseleitung
+• Schlienz-Reisebegleitung]]></Beschreibung><Termine><Termin ObjektID="T3183" Buchungscode="M250909-1" Start="2025-09-09" Ende="2025-09-14"><Unterkunft Name="Hotel laut Ausschreibung"><Kategorie Titel="Ausfl. Hallig Hooge &amp; Husum" Preis="69.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="DZ  incl. Leistungen" Preis="1589.00"><Verlängerungswochen/></Kategorie><Kategorie Titel="EZ  incl. Leistungen" Preis="1728.00"><Verlängerungswochen/></Kategorie><Beschreibung> </Beschreibung></Unterkunft></Termin></Termine><Bilder><Bild Dateiname="1ba4302_1351.jpg" Sortierung="1"/></Bilder></Reise></EasytouristTransfer>
